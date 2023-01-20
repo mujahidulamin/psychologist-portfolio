@@ -1,0 +1,40 @@
+.bg {
+  background-color: #cebebe;
+}
+.about {
+  font-family: Open Sans;
+  font-size: 28px;
+  color: #6d2e46;
+  line-height: 37.5px;
+}
+
+.hero-content1 {
+  z-index: 0;
+  display: flex;
+  justify-content: center;
+  max-width: 75rem;
+  gap: 3rem;
+  padding: 1rem;
+}
+
+.about-content {
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 25.5px;
+  letter-spacing: 2px;
+  color: #000000;
+}
+
+
+.btn-doctor {
+  background-color: #E7E6E4;
+  padding: 20px 42px;
+  margin: 0 auto;
+  color: #1e1e1e;
+  font-family: Open Sans;
+  font-style: Bold;
+  margin-top: 20px;
+  border-radius: 5px;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+}

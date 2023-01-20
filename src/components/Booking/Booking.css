@@ -1,0 +1,57 @@
+.booking-title {
+  font-family: Open Sans;
+  font-size: 26px;
+  line-height: 36px;
+  color: #6D2E46;
+}
+
+.radius{
+    height: 50px;
+    width: 50px;
+    border-radius: 80%;
+    border-left: 1px solid #6D2E46;
+}
+.radius-2{
+    height: 50px;
+    width: 50px;
+    border-radius: 80%;
+    border-left: 1px solid #6D2E46;
+    border-bottom: 1px solid #6D2E46;
+}
+
+.radius-3{
+    height: 50px;
+    width: 50px;
+    border-radius: 80%;
+    border: 1px solid #6D2E46;
+}
+
+.package{
+    Font-family: Open Sans;
+    font-weight: 700;
+    Font-size: 12px;
+    color: #6D2E46;
+    Line-height: 20px;
+}
+
+.booking-content{
+    Font-family: Open Sans;
+    color: #1E1E1E;
+    font-size: 14px;
+    Line-height: 20px;
+    margin-top: 8px;
+}
+
+.btn-booking {
+    background-color: #6d2e46;
+    padding: 10px 42px;
+    margin: 0 auto;
+    color: white;
+    font-family: Open Sans;
+    font-style: Bold;
+    margin-top: 20px;
+    border-radius: 5px;
+    Letter-spacing: 0.5px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+  }

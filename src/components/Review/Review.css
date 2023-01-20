@@ -1,0 +1,39 @@
+.customer-title {
+  font-family: Open Sans;
+  font-weight: bolder;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 2px;
+  color: #1E1E1E;
+  margin-top: 35px;
+  padding-bottom: 35px;
+}
+
+.customer{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.customer-content{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 50px;
+    right: auto;
+    color: black;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 50px;
+    left: auto;
+    color: black;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}

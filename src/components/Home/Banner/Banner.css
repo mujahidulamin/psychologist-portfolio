@@ -1,0 +1,26 @@
+.btn-button {
+  background-color: #6d2e46;
+  padding: 10px 42px;
+  margin: 0 auto;
+  color: white;
+  font-family: Open Sans;
+  font-style: Bold;
+  margin-top: 20px;
+  border-radius: 5px;
+  Letter-spacing: 0.5px
+}
+
+.left-content {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: rgba(109, 46, 70, 1);
+}
+
+.left-small {
+  font-family: Open Sans;
+  font-size: 18px;
+  line-height: 16px;
+  line-height: 59%;
+  Letter-spacing: 2px;
+  color: rgba(109, 46, 70, 1);
+}

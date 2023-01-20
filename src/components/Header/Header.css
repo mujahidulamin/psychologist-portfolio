@@ -1,0 +1,38 @@
+.title {
+  font-family: Open Sans;
+  font-size: 20px;
+  line-height: 16px;
+  line-height: 42%;
+  letter-spacing: 2px;
+  margin-top: 10px;
+  color: #6d2e46;
+}
+
+.sub-title {
+  font-family: Open Sans;
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: #6d2e46;
+  line-height: 2;
+}
+
+.right {
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 16px;
+  line-height: 42%;
+  letter-spacing: 2px;
+  margin-top: 10px;
+  color: #1E1E1E;
+}
+
+ul li a.active:hover
+{
+   
+}
+
+li a.active{
+  background-color: #E7E6E4;
+  color: #6d2e46;
+  font-weight: 700;
+}

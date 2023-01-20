@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+
+
+.detail-title{
+    font-family: 'Oooh Baby', cursive;
+    font-style: regular;
+    font-size: 42px;
+    Letter-spacing: 2px;
+    color: #6D2E46;
+}
+.details-begin{
+    font-family: Open Sans;
+    color: #6D2E46;
+    Letter-spacing: 2px;
+    margin-top: 15px;
+}
+
+.details-content{
+    font-family: Open Sans;
+    Letter-spacing: 2px;
+    color: #1E1E1E;
+    font-size: 14px;
+    Line-height: 36px;
+    padding-bottom: 50px;
+}
+
+hr{
+    border-top: 1px solid #6D2E46;
+}
